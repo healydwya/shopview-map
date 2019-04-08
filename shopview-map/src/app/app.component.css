@@ -1,0 +1,15 @@
+.map-img {
+    width: 200vw;
+    position: absolute;
+}
+
+.shop-img {
+    display: none;
+}
+
+.tracks-img {
+    width: 115vw;
+    padding-top: 59px;
+    margin-left: 570px;
+    background: #000;
+}
